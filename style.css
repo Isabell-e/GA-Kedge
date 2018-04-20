@@ -1,0 +1,28 @@
+h1 {
+	color: green;
+	font-family: 'Indie Flower', cursive;
+	font-size: 50px;
+}
+h2 {
+color: rgb(255,83,13);
+	front-size :20px;
+}
+#banner {
+	padding-top: 150px;
+	padding-bottom: 150px;
+	text-align: center;
+	background-image: url(image/banner.jpg);
+	background-size: cover;
+	
+}
+#image {
+	border : 2px solid orange;
+	border-radius: 50%;
+	text-align: center;
+}
+.icon {
+	width: 20px;
+}
+#poeme {
+	text-align: center;
+}
